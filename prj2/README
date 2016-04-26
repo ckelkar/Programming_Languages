@@ -1,0 +1,5 @@
+Name:		Chinmay Pradeep Kelkar
+B-Number:	B00608680
+Email:		ckelkar1@binghamton.edu
+
+For example 5, you have mentioned that the list has to be proper list. So we need to check whether it is proper list or not. I used (list? ..) function, but I think it is for checking list only. I think we need to write function to check that. (list? ..) won't work in that case. Question no 5 is working for all condtions except some error handling.

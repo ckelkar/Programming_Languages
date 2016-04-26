@@ -1,0 +1,5 @@
+Name:Chinmay Pradeep Kelkar
+Bmail: ckelkar1@binghamton.edu
+B-number: B00608680
+
+Took reference from github to understand code of binary search tree and applied it to the first part of the project. For the second part process is spawning but not able to do message passing. Tried for message passing but that was creating error. So removed that code form file.
